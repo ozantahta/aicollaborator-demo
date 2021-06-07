@@ -1,0 +1,50 @@
+.App {
+  text-align: left;
+  background-color: white;
+}
+
+nav.main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 13vh;
+  background: rgb(73, 79, 82);
+  color:white;
+  opacity:0.7;
+}
+
+.navo-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  margin-top: 20px;
+  font-weight: 450;
+  font-size: 1.1rem;
+}
+
+.textContainer {
+  background-color: #0e4277;
+  height: 200px;
+  line-height: 100px;
+  text-align: center;
+}
+
+.textItem {
+  color: white;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  font-size: 40px;
+  width: 60%;
+  margin-top: 35px;
+}
+
+.textButton {
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 40px;
+  background-color: #0e4277;
+}

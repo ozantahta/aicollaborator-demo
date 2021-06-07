@@ -1,0 +1,101 @@
+.buton {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  background: #00b698;
+  padding: 15px 20px 15px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.buton:hover {
+  background: #478f83;
+  text-decoration: none;
+}
+
+.partnerNetwork {
+  background-image: url(https://www.aicollaborator.com/wp-content/uploads/2020/08/startupNetworkNonFreeImage-scaled.jpg);
+  height: 400px;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+
+
+h1.partnerTitle {
+  top: 50%;
+  position: relative;
+  font-family: "Montserrat";
+  letter-spacing: 1.5px;
+  font-size: 70px;
+}
+
+.clientNetwork {
+  background-image: url(https://www.aicollaborator.com/wp-content/uploads/2020/09/AdobeStock_209740192-2.jpg);
+  height: 400px;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+h1.clientTitle {
+  top: 50%;
+  position: relative;
+  font-family: "Montserrat";
+  letter-spacing: 1.5px;
+  font-size: 70px;
+}
+
+input.partnerSearch{
+  height: calc(1.5em + 1rem + 2px);
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+  width: 60%;
+  border: 1px solid #ced4da;
+  margin-top: 10px;
+}
+
+img.searchicon {
+  height: 48px;
+  border: 1px solid #ced4da;
+  margin-bottom: 9px;
+  margin-left: 1px;
+  padding: 9px 9px 9px;
+  border-radius: .3rem;
+}
+  
+.checkbox-label {
+  margin-bottom: 0;
+  margin-left: 7px;
+}
+
+.checkbox-container {
+  margin: 50px 300px 10px;
+}
+
+span {
+  margin-left: 5px;
+}
+
+#groupone, #grouptwo, #groupthree {
+  margin: 50px 300px 10px;
+}
+
+.radio-label {
+  margin-bottom: 0;
+  margin-left: 7px;
+}
+
+.modal_checkbox-container {
+  margin: 15px 0 15px;
+}
+
+#modal_group1, #modal_group2, #modal_group3 {
+  margin: 15px 0 15px;
+}
